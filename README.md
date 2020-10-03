@@ -1,4 +1,4 @@
-# Hi, I'm John
+# Hi, I'm John McCall
 
 I am a `{Data | Database} [Platform | Reliability] Engineer`.
 
