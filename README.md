@@ -2,7 +2,7 @@
 
 I am a `{Data | Database} [Platform | Reliability] Engineer`.
 
-I'm a distance runner, [make free DBA scripts](https://github.com/LowlyDBA/dba-multitool), and occasionally create moss art :deciduous_tree:
+I'm also a distance runner, [make free DBA scripts](https://github.com/LowlyDBA/dba-multitool), and occasionally create moss art :deciduous_tree:
 
 ## Links
 
