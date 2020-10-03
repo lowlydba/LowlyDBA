@@ -1,6 +1,6 @@
 # Hi, I'm John McCall
 
-I am a `{Data | Database} [Platform | Reliability] Engineer`.
+I am a `{Data | Database} [Platform | Reliability]` Engineer.
 
 I also:
 
