@@ -2,6 +2,8 @@
 
 I am a `{Data | Database} [Platform | Reliability] Engineer`.
 
+I'm a distance runner, [give away DBA scripts for free](https://github.com/LowlyDBA/dba-multitool), and occasionally create moss art :deciduous_tree:
+
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)][linkedin]
