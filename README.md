@@ -7,7 +7,7 @@ I also:
 * run long distance :runner:
 * [make free DBA scripts](https://github.com/LowlyDBA/dba-multitool) :free:
 * create moss art :deciduous_tree:
-* maintain [expressdb.io][expdb], SQL Server Express guides
+* maintain [expressdb.io][expdb], SQL Server Express guides :free:
 
 ## Links
 
