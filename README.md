@@ -12,7 +12,7 @@ I also:
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)][linkedin]
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/dba/r/45616?label=DBA%20StackExchange&logo=stackexchange&style=social)][dba.se]
+[![Stack Exchange reputation](https://img.shields.io/badge/DBA%20StackExchange-10k+-x?logo=stackexchange&style=social)][dba.se]
 [![Stack Overflow CV](https://img.shields.io/badge/StackOverflow%20CV--grey?style=social&logo=stack-overflow)][se.dev]
 [![Sample Data For Change](https://img.shields.io/badge/Sample%20Data%20For%20Change%20%E2%9D%A4--red?style=social)][sdfc]
 
