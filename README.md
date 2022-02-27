@@ -33,6 +33,7 @@ I am a `{Data | Database} [Platform | Reliability]` Engineer.
   * [![Acclaim](https://img.shields.io/badge/Acclaim-Microsoft%2070--461-26689A.svg?style=flat&logo=Acclaim&logoColor=blue)][461]
   * [![Acclaim](https://img.shields.io/badge/Acclaim-Microsoft%2070--462-26689A.svg?style=flat&logo=Acclaim&logoColor=blue)][462]
   * ![MongoDB](https://img.shields.io/badge/MongoDB-M102-47A248.svg?style=flat&logo=MongoDB&logoColor=green)
+  * ![RIT](https://img.shields.io/badge/%F0%9F%90%85%20RIT-Bachelors%20of%20Science-orange)
 
 ### Links
 
