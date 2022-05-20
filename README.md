@@ -12,12 +12,13 @@ I also:
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)][linkedin]
-[![Stack Exchange reputation](https://img.shields.io/badge/DBA%20StackExchange-10k+-x?logo=stackexchange&style=social)][dba.se]
-[![Stack Overflow CV](https://img.shields.io/badge/StackOverflow%20CV--grey?style=social&logo=stack-overflow)][se.dev]
+[![CV](https://img.shields.io/badge/CV--grey?style=social&logo=stack-overflow)][cv]
 [![Sample Data For Change](https://img.shields.io/badge/Sample%20Data%20For%20Change%20%E2%9D%A4--red?style=social)][sdfc]
+[![Stack Exchange reputation](https://img.shields.io/badge/DBA%20StackExchange-10k+-x?logo=stackexchange&style=social)][dba.se]
+
 
 [sdfc]: https://sampledataforchange.github.io/
 [dba.se]: https://dba.stackexchange.com/users/45616/lowlydba/
 [linkedin]: https://www.linkedin.com/in/johnhmccall/
-[se.dev]: https://stackoverflow.com/users/story/4406684
+[cv]: https://registry.jsonresume.org/lowlydba
 [expdb]: https://expressdb.io 
