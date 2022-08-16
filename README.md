@@ -4,10 +4,10 @@ I am a `{Data | Database} [Platform | Reliability]` Engineer.
 
 I also:
 
-* run long distance :runner:
-* [make free DBA scripts](https://github.com/LowlyDBA/dba-multitool) :free:
-* create moss art :deciduous_tree:
-* maintain [expressdb.io][expdb], a guide site for SQL Server Express 📚
+* :runner: run long distance 
+* :free: make [open source SQL Server scripts](https://github.com/LowlyDBA/dba-multitool) 
+* :deciduous_tree: create moss art 
+* :books: maintain [expressdb.io][expdb], a guide site for SQL Server Express
 
 ## Links
 
