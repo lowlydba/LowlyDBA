@@ -1,13 +1,20 @@
 # Hi, I'm John McCall (he/him)
 
-I am a `{Data | Database} [Platform | Reliability]` Engineer.
+I am a `{Data | Database | Site} [ Reliability] Engineer.
+
+Some of my unique skills include: 
+
+- Rounding out custom Slackmoji libraries
+- Being a champion for markdown linting
+- Passion for digital craftsmanship & accessibility
 
 I also:
 
 * :runner: run long distance 
-* :free: make [open source SQL Server scripts](https://github.com/LowlyDBA/dba-multitool) 
+* :dog: have an uncropped, undocked Doberman
+* :free: make open source software
 * :deciduous_tree: create moss art 
-* :books: maintain [expressdb.io][expdb], a guide site for SQL Server Express
+* :massage: made [mentalhealth.day](https://mentalhealth.day)
 
 ## Links
 
