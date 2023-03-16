@@ -11,7 +11,7 @@ Some of my unique skills include:
 I also:
 
 * :runner: run long distance 
-* :dog: have an uncropped, undocked Doberman
+* :dog: have an uncropped, undocked Doberman mix
 * :free: make open source software
 * :deciduous_tree: create moss art 
 * :massage: made [mentalhealth.day](https://mentalhealth.day)
