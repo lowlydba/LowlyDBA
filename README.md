@@ -5,8 +5,10 @@ I am a `{Data | Database | Site | Systems} [ Reliability]` Engineer.
 Some of my unique skills include: 
 
 - Rounding out custom Slackmoji libraries
-- Being a champion for markdown linting
+- Championing all things markdown
+- Being an automagician
 - Passion for digital craftsmanship & accessibility
+- Multi faceted altruism in engineering
 
 I also:
 
