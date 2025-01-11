@@ -18,8 +18,8 @@ I also:
 * :deciduous_tree: create moss art 
 * :massage: made [mentalhealth.day](https://mentalhealth.day)
 * :tada: make fun sites:
-   * https://bit.ly/clue-sheet
-   * https://bit.ly/itsdangeroustogoalone 
+   * [bit.ly/clue-sheet](https://bit.ly/clue-sheet)
+   * [bit.ly/itsdangeroustogoalone](https://bit.ly/itsdangeroustogoalone)
 
 ## Links
 
