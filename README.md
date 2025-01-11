@@ -17,6 +17,9 @@ I also:
 * :free: make open source software
 * :deciduous_tree: create moss art 
 * :massage: made [mentalhealth.day](https://mentalhealth.day)
+* :tada: make fun sites:
+   * https://bit.ly/clue-sheet
+   * https://bit.ly/itsdangeroustogoalone 
 
 ## Links
 
