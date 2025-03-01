@@ -20,6 +20,7 @@ I also:
 * :tada: make fun sites:
    * [bit.ly/clue-sheet](https://bit.ly/clue-sheet)
    * [bit.ly/itsdangeroustogoalone](https://bit.ly/itsdangeroustogoalone)
+   * [bit.ly/emoji-favicon-library](https://bit.ly/emoji-favicon-library)
 
 ## Links
 
