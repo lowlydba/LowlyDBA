@@ -5,14 +5,13 @@ I am a `{Data | Database | Site | Systems} [ Reliability]` Engineer.
 Some of my unique skills include: 
 
 - Rounding out custom Slackmoji libraries
-- Championing all things markdown
+- Championing all things markdown and documentation
 - Being an automagician
 - Passion for digital craftsmanship & accessibility
 - Multi faceted altruism in engineering
 
 I also:
 
-* :runner: run long distance 
 * :dog: have an uncropped, undocked Doberman mix
 * :free: make open source software
 * :deciduous_tree: create moss art 
@@ -21,6 +20,10 @@ I also:
    * [bit.ly/clue-sheet](https://bit.ly/clue-sheet)
    * [bit.ly/itsdangeroustogoalone](https://bit.ly/itsdangeroustogoalone)
    * [bit.ly/emoji-favicon-library](https://bit.ly/emoji-favicon-library)
+* 🤖 build github actions:
+   *  [cron-holiday](https://github.com/marketplace/actions/cron-holiday)
+   *  [tsc Check](https://github.com/marketplace/actions/tsc-check)
+   *  [sustainable-npm](https://github.com/marketplace/actions/sustainable-npm)
 
 ## Links
 
