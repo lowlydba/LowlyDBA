@@ -2,13 +2,14 @@
 
 I am a `{Data | Database | Site | Systems | Platform} [ Reliability]` Engineer.
 
-Some of my unique skills include: 
+Some of my unique skills/attributes include: 
 
+- Multi faceted altruism in engineering
+- Passion for digital craftsmanship & accessibility
 - Rounding out custom Slackmoji libraries
 - Championing all things markdown and documentation
 - Being an automagician
-- Passion for digital craftsmanship & accessibility
-- Multi faceted altruism in engineering
+
 
 I also:
 
