@@ -25,6 +25,7 @@ I also:
    *  [cron-holiday](https://github.com/marketplace/actions/cron-holiday)
    *  [tsc Check](https://github.com/marketplace/actions/tsc-check)
    *  [sustainable-npm](https://github.com/marketplace/actions/sustainable-npm)
+   *  [incident-io-action](https://github.com/lowlydba/incident-io-action)
 * 🌐 create chrome extensions:
    * [Escape Hatch](https://github.com/lowlydba/escape-hatch) - combats violations of the Hatch Act on .gov sites
  
