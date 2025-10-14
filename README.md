@@ -1,6 +1,6 @@
 # Hi, I'm John McCall (he/him)
 
-I am a `{Data | Database | Site | Systems | Platform} [ Reliability ]` Engineer.
+I am a `{ Data | Database | Site | Systems | Platform } [ Reliability ]` Engineer.
 
 Some of my unique skills/attributes include: 
 
