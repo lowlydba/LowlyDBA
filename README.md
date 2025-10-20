@@ -35,10 +35,13 @@ See my pinned repositories for larger projects.
 
 [![Résumé](https://img.shields.io/badge/Résumé--red?style=social)][resume]
 [![Sample Data For Change](https://img.shields.io/badge/Sample%20Data%20For%20Change%20%E2%9D%A4--red?style=social)][sdfc]
-[![Stack Exchange reputation](https://img.shields.io/badge/DBA%20StackExchange-10k+-x?logo=stackexchange&style=social)][dba.se]
+[![Lowlysre Substack](https://img.shields.io/badge/lowlysre-substack-pink)][substack]
+
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/dba/r/45616?style=social&label=DBA.StackExchange&logo=stackexchange)][dba.se]
 
 
 [sdfc]: https://sampledataforchange.github.io/
 [dba.se]: https://dba.stackexchange.com/users/45616/lowlydba/
 [expdb]: https://expressdb.io 
 [resume]: https://registry.jsonresume.org/lowlydba
+[substack]: https://lowlysre.substack.com/
