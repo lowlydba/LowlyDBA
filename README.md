@@ -21,6 +21,7 @@ I also:
    * [bit.ly/clue-sheet](https://bit.ly/clue-sheet)
    * [bit.ly/itsdangeroustogoalone](https://bit.ly/itsdangeroustogoalone)
    * [bit.ly/emoji-favicon-library](https://bit.ly/emoji-favicon-library)
+   * [GitHub Cron Drift Tracker](https://lowlysre.grafana.net/public-dashboards/66e12b0c83214d88ab4040521de1e874)
 * 🤖 build github actions:
    *  [cron-holiday](https://github.com/marketplace/actions/cron-holiday)
    *  [tsc Check](https://github.com/marketplace/actions/tsc-check)
