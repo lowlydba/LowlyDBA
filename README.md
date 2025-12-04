@@ -16,7 +16,7 @@ I also:
 - :free: make open source software
 - :deciduous_tree: create moss art
 
-... and create lots of projects:
+... and build lots of projects:
 | Category | Projects |
 |----------|----------|
 | :tada: Websites | [mentalhealth.day](https://mentalhealth.day) • [expressdb.io][expdb] • [bit.ly/clue-sheet](https://bit.ly/clue-sheet) • [bit.ly/itsdangeroustogoalone](https://bit.ly/itsdangeroustogoalone) • [bit.ly/emoji-favicon-library](https://bit.ly/emoji-favicon-library) • [GitHub Cron Drift Tracker](https://lowlysre.grafana.net/public-dashboards/66e12b0c83214d88ab4040521de1e874) • [turnthevolumeup.org](https://turnthevolumeup.org) |
