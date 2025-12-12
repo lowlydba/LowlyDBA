@@ -1,36 +1,26 @@
-# Hi, I'm John McCall (he/him)
+# John McCall — Staff Site Reliability Engineer
 
-I am a `{ Data | Database | Site | Systems | Platform } [ Reliability ]` Engineer.
+Humanism through technology.
 
-Some of my unique skills/attributes include:
+I build systems that do not implode. I mentor humans to do the same. I value humility, clarity, and evidence over hierarchy, ego, and process for its own sake. I am primarily concerned with problems that impact people, not just systems.
 
-- Multi faceted altruism in engineering
-- Passion for digital craftsmanship & accessibility
-- Rounding out custom Slackmoji libraries
-- Championing all things markdown and documentation
-- Being an automagician
+## Philosophy
 
-I also:
+Engineering is not just shipping features. It is thinking critically about *what we build*, *why we build it*, and *how it impacts people*. As a neurodivergent engineer, I know first hand how systems can exclude people. I strive to build inclusive systems that empower all people, regardless of ability or background.
 
-- :dog: have an uncropped, undocked Doberman mix
-- :free: make open source software
-- :deciduous_tree: create moss art
+I [write about][substack] the invisible forces in tech: how gate-keeping limits opportunity, how thoughtful design scales teams, and how human-centered thinking improves systems and lives.
 
-... and build lots of projects:
+## Personal Projects
+
 | Category | Projects |
 |----------|----------|
 | :tada: Websites | [mentalhealth.day](https://mentalhealth.day) • [expressdb.io][expdb] • [bit.ly/clue-sheet](https://bit.ly/clue-sheet) • [bit.ly/itsdangeroustogoalone](https://bit.ly/itsdangeroustogoalone) • [bit.ly/emoji-favicon-library](https://bit.ly/emoji-favicon-library) • [GitHub Cron Drift Tracker](https://lowlysre.grafana.net/public-dashboards/66e12b0c83214d88ab4040521de1e874) • [turnthevolumeup.org](https://turnthevolumeup.org) |
 | 🤖 GitHub Actions | [cron-holiday](https://github.com/marketplace/actions/cron-holiday) • [tsc Check](https://github.com/marketplace/actions/tsc-check) • [sustainable-npm](https://github.com/marketplace/actions/sustainable-npm) • [incident-io-action](https://github.com/lowlydba/incident-io-action) |
 | 🌐 Chrome Extensions | [Escape Hatch](https://github.com/lowlydba/escape-hatch)|
 
-See pinned repositories below for my high visibility projects❗
-
 ## Links
 
-[![Résumé](https://img.shields.io/badge/Résumé--red?style=social)][resume]
-[![Sample Data For Change](https://img.shields.io/badge/Sample%20Data%20For%20Change%20%E2%9D%A4--red?style=social)][sdfc]
 [![Lowlysre Substack](https://img.shields.io/badge/lowlysre-substack-pink)][substack]
-
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/dba/r/45616?style=social&label=DBA.StackExchange&logo=stackexchange)][dba.se]
 
 [sdfc]: https://sampledataforchange.github.io/
