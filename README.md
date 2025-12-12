@@ -1,4 +1,4 @@
-# John McCall — Staff Site Reliability Engineer
+# John McCall, a Staff Site Reliability Engineer
 
 Humanism through technology.
 
