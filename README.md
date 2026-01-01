@@ -17,6 +17,7 @@ I [write about][substack] the invisible forces in tech: how gate-keeping limits 
 | :tada: Websites | [mentalhealth.day](https://mentalhealth.day) • [expressdb.io][expdb] • [bit.ly/clue-sheet](https://bit.ly/clue-sheet) • [bit.ly/itsdangeroustogoalone](https://bit.ly/itsdangeroustogoalone) • [bit.ly/emoji-favicon-library](https://bit.ly/emoji-favicon-library) • [GitHub Cron Drift Tracker](https://lowlysre.grafana.net/public-dashboards/66e12b0c83214d88ab4040521de1e874) • [turnthevolumeup.org](https://turnthevolumeup.org) |
 | 🤖 GitHub Actions | [cron-holiday](https://github.com/marketplace/actions/cron-holiday) • [tsc Check](https://github.com/marketplace/actions/tsc-check) • [sustainable-npm](https://github.com/marketplace/actions/sustainable-npm) • [incident-io-action](https://github.com/lowlydba/incident-io-action) |
 | 🌐 Chrome Extensions | [Escape Hatch](https://github.com/lowlydba/escape-hatch)|
+| Misc | https://jobsjson.org/ |
 
 ## Links
 
