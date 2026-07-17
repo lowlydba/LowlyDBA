@@ -18,7 +18,7 @@ I [write about][substack] the invisible forces in tech: how gate-keeping limits 
 | 🤖 GitHub Actions | [cron-holiday](https://github.com/marketplace/actions/cron-holiday) • [tsc-check](https://github.com/marketplace/actions/tsc-check) • [sustainable-npm](https://github.com/marketplace/actions/sustainable-npm) • [sustainable-mvn](https://github.com/marketplace/actions/sustainable-mvn) • [incident-io-action](https://github.com/lowlydba/incident-io-action) • [are-we-good](https://github.com/lowlydba/are-we-good) • [stac-check-action](https://github.com/lowlydba/stac-check-action) • [setup-garage](https://github.com/lowlydba/setup-garage) • [tofu-garnish](https://github.com/lowlydba/tofu-garnish) |
 | :octocat: npm packages | [@lowlydba/canvas-confetti-a11y](https://www.npmjs.com/package/@lowlydba/canvas-confetti-a11y) • [@lowlysre/icd-10-cm](https://www.npmjs.com/package/@lowlysre/icd-10-cm)
 | 🌐 Chrome Extensions | [Escape Hatch](https://github.com/lowlydba/escape-hatch)|
-| 🐚 Misc | [Jobs JSON Spec](https://jobsjson.org) • [Sample Data for Change](https://sampledataforchange.github.io/) • [Open Fieldnotes](https://github.com/lowlydba/open-fieldnotes) 
+| 🐚 Misc | [Jobs JSON Spec](https://jobsjson.org) • [Sample Data for Change](https://sampledataforchange.github.io/) • [Open Fieldnotes](https://github.com/lowlysre/open-fieldnotes) 
 
 ## Links
 
