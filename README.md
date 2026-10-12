@@ -1,8 +1,8 @@
-# John McCall, a Staff Site Reliability Engineer
+# John McCall, an open source engineer
 
 Humanism through technology. ☮️
 
-I build systems that do not implode. I mentor humans to do the same. I value humility, clarity, and evidence over hierarchy, ego, and process for its own sake. I am primarily concerned with problems that impact people, not just systems.
+I build systems that do not implode and attempt to mentor humans to do the same. I value humility, clarity, and evidence over hierarchy, ego, and process for its own sake. I am primarily concerned with problems that impact people, not just systems.
 
 ## Philosophy
 
